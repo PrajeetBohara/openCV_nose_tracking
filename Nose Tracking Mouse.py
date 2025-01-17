@@ -58,7 +58,7 @@ while True:
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
-cap.release() #to release the memorry
+cap.release() #to release the memory
 cv2.destroyAllWindows()
 
 
