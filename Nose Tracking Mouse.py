@@ -1,5 +1,3 @@
-#Python Noise Tracking Mouse
-
 
 from pynput.mouse import Controller
 import cv2
